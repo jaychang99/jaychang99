@@ -13,7 +13,11 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
+<div align="center">
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jaychang99)](https://hits.seeyoufarm.com)
+  
+</div>
 
 ### Favorite Programming Languages
 ---
