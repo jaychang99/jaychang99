@@ -11,11 +11,14 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaychang99)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=jaychang99)](https://github.com/jaychang00)
+
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <div align="center">
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jaychang99)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jaychang99)](https://github.com/jaychang99)
   
 </div>
 
