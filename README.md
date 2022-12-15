@@ -37,6 +37,11 @@
 
 </p>
 
+### Now I am working on...
+* 마이크로 프론트엔드 아키텍쳐에 대해 공부하고 있습니다. 
+* create-react-app 과 같은 저만의 프로젝트 보일러플레이트 코드를 만들어주는 shell script 작성 중에 있습니다. 
+* 좋은 개발 문화와 개발 프로세스 자체에 대한 고민을 하고 있습니다. 
+
 <!--
 **jaychang99/jaychang99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
