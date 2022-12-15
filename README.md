@@ -9,13 +9,15 @@
 개발과 동시에 항상 사용자에게 어떤 경험이 더 좋을지,어떻게 더 좋은UI/UX를 구현 할 수 있을지 디자인 팀과도 항상 의견을 적극적으로 교환하며 개발해나가고 있습니다!
 또한 원활한 개발을 위해 팀워크가 중요하다고 생각하며, 개발 과정에서 여러 직군과의 원활한 의사소통과 개발 과정 상의 컨벤션을 중요시하고 있습니다.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaychang99)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaychang99)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jaychang99)](https://github.com/jaychang00)
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaychang99)](https://github.com/jaychang99) -->
+
 <div align="center">
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jaychang99)](https://github.com/jaychang99)
