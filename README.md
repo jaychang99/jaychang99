@@ -1,4 +1,4 @@
-# Hi there, I am Jay Chang!
+# Hi there, I am Jay Chang! 👋
 
 Hi, I am Jaewon Chang, a frontend engineer dedicated to being a full-stack engineer form South Korea 🇰🇷!
 
@@ -49,6 +49,26 @@ Hi, I am Jaewon Chang, a frontend engineer dedicated to being a full-stack engin
 </p>
 
 </details>
+
+## 🏢 Work Experience
+
+* **2023.12 - present: Frontline Manager of Frontend Dev Team at Nudge Healthcare, Inc. (Formerly Cashwalk, Inc.)** 
+* 2023.02 - 2023.12: Frontend Developer at Nudge Healthcare, Inc.
+
+(listed below are non-profit educational organizations)
+* 2022.09 - 2023.01: Core Member of GDSC (Google Developer Student Clubs) SKKU 22'-23'
+* 2023.09 - 2023.01: Managerial Position at [SCG](https://scg.skku.ac.kr/) (System Consultant Group), Sungkyunkwan University. 
+* 2022.03 - 2023.08: Frontend Developer at [SCG](https://scg.skku.ac.kr/) (System Consultant Group), Sungkyunkwan University. 
+
+
+## 🎓 Education
+
+* 2021 - present: [Sungkyunkwan University](https://www.skku.edu/eng/) B.S in Software
+* 2020 - present: [Sungkyunkwan University](https://www.skku.edu/eng/) B.S in Electronic and Electrical Engineering
+
+## 🏆 Awards
+
+* 2022.09 - Excellence Prize in [9th Unithon](https://www.unit.center/c103afe0-0cb8-4b2e-adf6-650aede1d296)
 
 ### Github Stats
 
