@@ -57,8 +57,8 @@ Hi, I am Jaewon Chang, a frontend engineer dedicated to being a full-stack engin
 
 (listed below are non-profit educational organizations)
 * 2022.09 - 2023.01: Core Member of GDSC (Google Developer Student Clubs) SKKU 22'-23'
-* 2023.09 - 2023.01: Managerial Position at [SCG](https://scg.skku.ac.kr/) (System Consultant Group), Sungkyunkwan University. 
-* 2022.03 - 2023.08: Frontend Developer at [SCG](https://scg.skku.ac.kr/) (System Consultant Group), Sungkyunkwan University. 
+* 2022.09 - 2023.01: Managerial Position at [SCG](https://scg.skku.ac.kr/) (System Consultant Group), Sungkyunkwan University. 
+* 2022.03 - 2022.08: Frontend Developer at [SCG](https://scg.skku.ac.kr/) (System Consultant Group), Sungkyunkwan University. 
 
 
 ## 🎓 Education
