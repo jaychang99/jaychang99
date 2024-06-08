@@ -1,17 +1,52 @@
-### :hand: 안녕하세요! 프론트엔드 개발자 장재원입니다! 
+# Hi there, I am Jay Chang!
 
-안녕하세요!
-
-
-사용자에게 한 걸음 더 다가가기 위해 노력하는 프론트엔드 개발자 장재원입니다.
-
-
-개발과 동시에 항상 사용자에게 어떤 경험이 더 좋을지,어떻게 더 좋은UI/UX를 구현 할 수 있을지 디자인 팀과도 항상 의견을 적극적으로 교환하며 개발해나가고 있습니다!
-또한 원활한 개발을 위해 팀워크가 중요하다고 생각하며, 개발 과정에서 여러 직군과의 원활한 의사소통과 개발 과정 상의 컨벤션을 중요시하고 있습니다.
-
+Hi, I am Jaewon Chang, a frontend engineer dedicated to being a full-stack engineer form South Korea 🇰🇷!
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaychang99)](https://github.com/anuraghazra/github-readme-stats) -->
 
+### Skills (Actively Using)
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?perline=10&i=aws,git,github,githubactions,html,css,js,ts,nodejs,react,vscode,emotion,figma,graphql,md,notion,npm,postman,styledcomponents,tailwind,vercel,vscode" />
+  </a>
+  <br/>
+</p>
+
+* Skills (used rarely or indirectly through development process but not actively using though have some conceptual understanding of)
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?perline=10&i=babel,webpack,codepen,docker,express,firebase,linux,mysql,nestjs,nginx,regex,vim,vite,webstorm,yarn" />
+  </a>
+  <br/>
+</p>
+
+
+* Skills (Have Past Experience)
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?perline=10&i=ae,ps,ai,bootstrap,c,cypress,gitlab,jenkins,matlab,prisma,pycharm,py,sublime,sentry" />
+  </a>
+  <br/>
+</p>
+
+* Skills Currently Tinkering on
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?perline=10&i=dart,flutter,java,jest,swift" />
+  </a>
+  <br/>
+</p>
+
+* Skills hoping to master in the future
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?perline=10&i=kubernetes,redis,rust,go,spring,kotlin,terraform" />
+  </a>
+  <br/>
+</p>
+
+
+### Github Stats
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jaychang99)](https://github.com/jaychang00)
 
@@ -24,23 +59,7 @@
   
 </div>
 
-### Favorite Programming Languages
----
-<p>
-<img src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white&style=ShieldStyle"/>
-<img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=ShieldStyle" />
-</p>
 
-### Favorite Frameworks/Libraries
----
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=ShieldStyle" />
-<img src="https://img.shields.io/badge/NextJS-000000?logo=next.js&logoColor=white&style=ShieldStyle" />
-
-</p>
-
-### Now I am working on...
-* 좋은 개발 문화와 개발 프로세스 자체에 대한 고민을 하고 있습니다. 
 
 <!--
 **jaychang99/jaychang99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
