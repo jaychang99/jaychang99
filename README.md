@@ -70,6 +70,13 @@ Hi, I am Jaewon Chang, a frontend engineer dedicated to being a full-stack engin
 
 * 2022.09 - Excellence Prize in [9th Unithon](https://www.unit.center/c103afe0-0cb8-4b2e-adf6-650aede1d296)
 
+## 🔡 Languages
+
+| Language | Proficiency   |       |
+|----------|---------------|-------|
+| Korean   | Native        | ⭐️⭐️⭐️⭐️⭐️ |
+| English  | Advanced High / Fluent | ⭐️⭐️⭐️⭐️  |
+
 ### Github Stats
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jaychang99)](https://github.com/jaychang00)
