@@ -12,6 +12,9 @@ Hi, I am Jaewon Chang, a frontend engineer dedicated to being a full-stack engin
   <br/>
 </p>
 
+<details>
+<summary>See More Skills!</summary>
+
 * Skills (used rarely or indirectly through development process but not actively using though have some conceptual understanding of)
 <p>
   <a href="https://skillicons.dev">
@@ -45,6 +48,7 @@ Hi, I am Jaewon Chang, a frontend engineer dedicated to being a full-stack engin
   <br/>
 </p>
 
+</details>
 
 ### Github Stats
 
