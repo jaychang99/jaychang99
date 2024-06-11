@@ -7,7 +7,7 @@ Hi, I am Jaewon Chang, a frontend engineer dedicated to being a full-stack engin
 ### Skills (Actively Using)
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=10&i=aws,git,github,githubactions,html,css,js,ts,nodejs,react,vscode,emotion,figma,graphql,md,notion,npm,postman,styledcomponents,tailwind,vercel,vscode" />
+    <img src="https://skillicons.dev/icons?perline=10&i=aws,git,github,githubactions,html,css,js,ts,nodejs,react,vscode,emotion,figma,graphql,md,notion,npm,postman,styledcomponents,tailwind,vercel" />
   </a>
   <br/>
 </p>
