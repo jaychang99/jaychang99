@@ -52,7 +52,7 @@ Hi, I am Jaewon Chang, a frontend engineer dedicated to being a full-stack engin
 
 ## 🏢 Work Experience
 
-* **2024.08 - 2025.04: Deputy Frontend Lead of Frontend Dev Team at Nudge Healthcare, Inc. (Formerly Cashwalk, Inc.)**
+* 2024.08 - 2025.04: Deputy Frontend Lead of Frontend Dev Team at Nudge Healthcare, Inc. (Formerly Cashwalk, Inc.)
 * 2023.12 - 2024.08: Frontline Manager of Frontend Dev Team at Nudge Healthcare, Inc.
 * 2023.02 - 2023.12: Frontend Developer at Nudge Healthcare, Inc.
 
